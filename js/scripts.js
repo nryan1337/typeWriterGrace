@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Coding with Girls')
+typewriter.typeString('Code with Girls')
     .pauseFor(2500)
     .deleteChars(5)
     .typeString('Grit')
